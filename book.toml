@@ -1,7 +1,6 @@
 [book]
 authors = ["refcell", "clabby"]
 language = "en"
-multilingual = false
 src = "src"
 title = "Alt Stack Team"
 
